@@ -17,6 +17,7 @@ end
 group :assets do
   gem 'sass-rails',   '3.2.5'
   gem 'uglifier', '1.2.3'
+  # Required for Zurb Foundation
   gem 'compass-rails'
   gem 'zurb-foundation', '~> 4.0.0'
 end
